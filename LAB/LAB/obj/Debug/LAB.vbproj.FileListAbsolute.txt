@@ -1,0 +1,11 @@
+C:\Users\poova\source\repos\LAB\LAB\bin\Debug\LAB.exe.config
+C:\Users\poova\source\repos\LAB\LAB\bin\Debug\LAB.exe
+C:\Users\poova\source\repos\LAB\LAB\bin\Debug\LAB.pdb
+C:\Users\poova\source\repos\LAB\LAB\bin\Debug\LAB.xml
+C:\Users\poova\source\repos\LAB\LAB\obj\Debug\LAB.vbprojAssemblyReference.cache
+C:\Users\poova\source\repos\LAB\LAB\obj\Debug\LAB.Form1.resources
+C:\Users\poova\source\repos\LAB\LAB\obj\Debug\LAB.Resources.resources
+C:\Users\poova\source\repos\LAB\LAB\obj\Debug\LAB.vbproj.GenerateResource.cache
+C:\Users\poova\source\repos\LAB\LAB\obj\Debug\LAB.exe
+C:\Users\poova\source\repos\LAB\LAB\obj\Debug\LAB.xml
+C:\Users\poova\source\repos\LAB\LAB\obj\Debug\LAB.pdb
